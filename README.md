@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hallo Saya Michael Manoppo , Saat ini saya sedang menempuh pendidikan<br>S1 di bidang Informatika 💻<br><br>saat ini saya sedang mengerjakan Project :<br><br>🎇Spark : Backend dev<br>
 
+"The pain of regret is going to be so much stronger than the pain of discipline"
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Michael) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mikelnoppo) 
