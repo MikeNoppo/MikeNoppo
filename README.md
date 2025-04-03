@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hallo Saya Michael Manoppo , Saat ini saya sedang menempuh pendidikan<br>S1 di bidang Informatika 💻<br><br>saat ini saya sedang mengerjakan Project :<br><br>🎇Spark : Backend dev<br>
-
+Hallo Saya Michael Manoppo , Saat ini saya sedang menempuh pendidikan<br>S1 di bidang Informatika 💻<br>
 "The pain of regret is going to be so much stronger than the pain of discipline"
 
 ## 🌐 Socials:
@@ -13,8 +12,6 @@ Hallo Saya Michael Manoppo , Saat ini saya sedang menempuh pendidikan<br>S1 di b
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MikeNoppo&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeNoppo&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MikeNoppo&limit=5&theme=algolia&combine_all_yearly_contributions=true)
