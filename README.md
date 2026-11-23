@@ -46,30 +46,9 @@
   <img alt="Redis" title="Redis" width="60" hspace="2" src="https://img.shields.io/badge/%20-252525?style=flat-square&amp;logo=redis&amp;logoColor=f2f2f2">
 </p>
 
-## Projects and activity
+## GitHub stats
 
-<table>
-  <thead>
-    <tr>
-      <th scope="col" align="left">Selected projects</th>
-      <th scope="col">GitHub contributions</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td valign="middle">
-        <ul>
-          <li><a href="https://github.com/MikeNoppo/RuangPena">RuangPena</a> · TypeScript</li>
-          <li><a href="https://github.com/MikeNoppo/Mikel-Skill">Mikel-Skill</a> · Python</li>
-          <li><a href="https://github.com/MikeNoppo/sajika">sajika</a> · Go</li>
-        </ul>
-      </td>
-      <td align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MikeNoppo&amp;hide_current_streak=true&amp;hide_longest_streak=true&amp;hide_border=true&amp;card_width=180&amp;card_height=170&amp;background=00000000&amp;sideNums=f2f2f2&amp;sideLabels=f2f2f2&amp;dates=ababab&amp;disable_animations=true">
-          <img alt="Total GitHub contributions by MikeNoppo" width="144" src="https://streak-stats.demolab.com?user=MikeNoppo&amp;hide_current_streak=true&amp;hide_longest_streak=true&amp;hide_border=true&amp;card_width=180&amp;card_height=170&amp;background=00000000&amp;sideNums=171717&amp;sideLabels=171717&amp;dates=5c5c5c&amp;disable_animations=true">
-        </picture>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/github-activity-mobile.svg">
+  <img src="assets/github-activity.svg" width="896" alt="GitHub stats for the last 12 months, with weekly contributions, active days, busiest week, and longest streak">
+</picture>

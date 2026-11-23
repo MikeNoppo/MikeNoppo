@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="896" height="288" viewBox="0 0 896 288" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub activity in the last 12 months</title>
+  <desc id="desc">9,566 contributions, 316 active days, 575 contributions in the busiest week, and a longest streak of 56 days.</desc>
+  <style>
+    text { font-family: Arial, Helvetica, sans-serif; fill: #f2f2f2; }
+    .label { fill: #bcbcbc; font-family: monospace; font-size: 12px; letter-spacing: .65px; }
+    .value { font-size: 34px; font-weight: 700; }
+    @media (prefers-reduced-motion: no-preference) {
+      .peak { animation: brighten 900ms ease-out both; }
+    }
+    @keyframes brighten { from { opacity: .45; } to { opacity: 1; } }
+  </style>
+  <path d="M0 0H896V288H0Z" fill="#101010"/>
+  <path d="M.5 .5H895.5V287.5H.5Z" fill="none" stroke="#595959"/>
+  <path d="M298 30V170 M32 194H864" fill="none" stroke="#3e3e3e"/>
+  <text class="label" x="32" y="47">LAST 12 MONTHS</text>
+  <text x="30" y="114" font-size="60" font-weight="700" letter-spacing="-1.5">9,566</text>
+  <text x="32" y="145" font-size="20">Total contributions</text>
+  <text class="label" x="326" y="47">WEEKLY CONTRIBUTIONS</text>
+<path d="M326 145H864" stroke="#3e3e3e"/>
+<path d="M326 104H864" stroke="#3e3e3e"/>
+<path d="M326 63H864" stroke="#3e3e3e"/>
+<rect x="327.42" y="133.73" width="7.31" height="11.27" fill="#8c8c8c"/>
+<rect x="337.57" y="131.74" width="7.31" height="13.26" fill="#8c8c8c"/>
+<rect x="347.72" y="121.47" width="7.31" height="23.53" fill="#8c8c8c"/>
+<rect x="357.87" y="129.03" width="7.31" height="15.97" fill="#8c8c8c"/>
+<rect x="368.02" y="142.58" width="7.31" height="2.42" fill="#8c8c8c"/>
+<rect x="378.18" y="128.74" width="7.31" height="16.26" fill="#8c8c8c"/>
+<rect x="388.33" y="127.17" width="7.31" height="17.83" fill="#8c8c8c"/>
+<rect x="398.48" y="136.02" width="7.31" height="8.98" fill="#8c8c8c"/>
+<rect x="408.63" y="118.90" width="7.31" height="26.10" fill="#8c8c8c"/>
+<rect x="418.78" y="111.91" width="7.31" height="33.09" fill="#8c8c8c"/>
+<rect x="428.93" y="86.96" width="7.31" height="58.04" fill="#8c8c8c"/>
+<rect x="439.08" y="114.34" width="7.31" height="30.66" fill="#8c8c8c"/>
+<rect x="449.23" y="123.18" width="7.31" height="21.82" fill="#8c8c8c"/>
+<rect x="459.38" y="118.05" width="7.31" height="26.95" fill="#8c8c8c"/>
+<rect x="469.53" y="115.48" width="7.31" height="29.52" fill="#8c8c8c"/>
+<rect x="479.69" y="137.44" width="7.31" height="7.56" fill="#8c8c8c"/>
+<rect x="489.84" y="125.89" width="7.31" height="19.11" fill="#8c8c8c"/>
+<rect x="499.99" y="138.44" width="7.31" height="6.56" fill="#8c8c8c"/>
+<rect x="510.14" y="130.88" width="7.31" height="14.12" fill="#8c8c8c"/>
+<rect x="520.29" y="119.33" width="7.31" height="25.67" fill="#8c8c8c"/>
+<rect x="530.44" y="126.32" width="7.31" height="18.68" fill="#8c8c8c"/>
+<rect x="540.59" y="142.58" width="7.31" height="2.42" fill="#8c8c8c"/>
+<rect x="550.74" y="136.73" width="7.31" height="8.27" fill="#8c8c8c"/>
+<rect x="560.89" y="142.29" width="7.31" height="2.71" fill="#8c8c8c"/>
+<rect x="571.04" y="127.03" width="7.31" height="17.97" fill="#8c8c8c"/>
+<rect x="581.19" y="127.74" width="7.31" height="17.26" fill="#8c8c8c"/>
+<rect x="591.35" y="129.31" width="7.31" height="15.69" fill="#8c8c8c"/>
+<rect x="601.50" y="128.46" width="7.31" height="16.54" fill="#8c8c8c"/>
+<rect x="611.65" y="138.01" width="7.31" height="6.99" fill="#8c8c8c"/>
+<rect x="621.80" y="136.44" width="7.31" height="8.56" fill="#8c8c8c"/>
+<rect x="631.95" y="130.74" width="7.31" height="14.26" fill="#8c8c8c"/>
+<rect x="642.10" y="136.87" width="7.31" height="8.13" fill="#8c8c8c"/>
+<rect x="652.25" y="123.75" width="7.31" height="21.25" fill="#8c8c8c"/>
+<rect x="662.40" y="122.90" width="7.31" height="22.10" fill="#8c8c8c"/>
+<rect x="672.55" y="119.05" width="7.31" height="25.95" fill="#8c8c8c"/>
+<rect x="682.70" y="137.87" width="7.31" height="7.13" fill="#8c8c8c"/>
+<rect x="692.86" y="124.75" width="7.31" height="20.25" fill="#8c8c8c"/>
+<rect x="703.01" y="125.03" width="7.31" height="19.97" fill="#8c8c8c"/>
+<rect x="713.16" y="115.48" width="7.31" height="29.52" fill="#8c8c8c"/>
+<rect x="723.31" y="90.38" width="7.31" height="54.62" fill="#8c8c8c"/>
+<rect x="733.46" y="117.76" width="7.31" height="27.24" fill="#8c8c8c"/>
+<rect x="743.61" y="96.09" width="7.31" height="48.91" fill="#8c8c8c"/>
+<rect x="753.76" y="92.09" width="7.31" height="52.91" fill="#8c8c8c"/>
+<rect x="763.91" y="103.93" width="7.31" height="41.07" fill="#8c8c8c"/>
+<rect x="774.06" y="63.00" width="7.31" height="82.00" class="peak" fill="#f2f2f2"/>
+<rect x="784.21" y="91.66" width="7.31" height="53.34" fill="#8c8c8c"/>
+<rect x="794.36" y="80.68" width="7.31" height="64.32" fill="#8c8c8c"/>
+<rect x="804.52" y="107.64" width="7.31" height="37.36" fill="#8c8c8c"/>
+<rect x="814.67" y="63.57" width="7.31" height="81.43" fill="#8c8c8c"/>
+<rect x="824.82" y="111.77" width="7.31" height="33.23" fill="#8c8c8c"/>
+<rect x="834.97" y="87.81" width="7.31" height="57.19" fill="#8c8c8c"/>
+<rect x="845.12" y="107.64" width="7.31" height="37.36" fill="#8c8c8c"/>
+<rect x="855.27" y="144.00" width="7.31" height="1.00" fill="#8c8c8c"/>
+<text class="label" x="326" y="169">NOV 2025</text>
+<text class="label" x="864" y="169" text-anchor="end">NOV 2026</text>
+  <text class="value" x="32" y="237">316</text>
+<text class="label" x="32" y="263">ACTIVE DAYS</text>
+<path d="M298.333 212V270" stroke="#3e3e3e"/>
+<text class="value" x="309.333" y="237">575</text>
+<text class="label" x="309.333" y="263">BEST WEEK</text>
+<path d="M575.667 212V270" stroke="#3e3e3e"/>
+<text class="value" x="586.667" y="237">56d</text>
+<text class="label" x="586.667" y="263">LONGEST STREAK</text>
+</svg>
