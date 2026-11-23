@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="896" height="300" viewBox="0 0 896 300">
+<svg xmlns="http://www.w3.org/2000/svg" width="896" height="240" viewBox="0 0 896 240">
   <defs>
     <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
       <path d="M24 0H0V24" fill="none" stroke="#303030"/>
@@ -7,7 +7,7 @@
       <path d="M1 0V8" stroke="#f2f2f2" stroke-width="1.2"/>
     </pattern>
     <clipPath id="art">
-      <rect x="470" width="426" height="300"/>
+      <rect x="570" width="326" height="240"/>
     </clipPath>
   </defs>
   <style>
@@ -19,18 +19,19 @@
       to { stroke-dasharray: 1; stroke-dashoffset: 0; }
     }
   </style>
-  <path fill="#101010" d="M0 0H896V300H0Z"/>
+  <path fill="#101010" d="M0 0H896V240H0Z"/>
   <g clip-path="url(#art)">
-    <path fill="url(#grid)" d="M470 0H896V300H470Z"/>
-    <path d="M632 0H842L1030 300H820Z" fill="url(#hatch)"/>
-    <path d="M673 36H818L959 264H814Z" fill="#101010" stroke="#c6c6c6"/>
-    <path d="M704 84H790L873 216H787Z" fill="#f2f2f2"/>
-    <path d="M470 264H814L673 36H470" fill="none" stroke="#727272"/>
-    <path class="trace" d="M470 264H814L673 36H470" fill="none" stroke="#f2f2f2" stroke-width="1.5" pathLength="1"/>
+    <path fill="url(#grid)" d="M570 0H896V240H570Z"/>
+    <path d="M664 0H815L965 240H814Z" fill="url(#hatch)"/>
+    <path d="M696 30H802L915 210H809Z" fill="#101010" stroke="#bdbdbd"/>
+    <path d="M720 68H783L848 172H785Z" fill="#f2f2f2"/>
+    <path d="M570 210H809L696 30H570" fill="none" stroke="#727272"/>
+    <path class="trace" d="M570 210H809L696 30H570" fill="none" stroke="#f2f2f2" stroke-width="1.5" pathLength="1"/>
   </g>
-  <path d="M470 0V300M0.5 0.5H895.5V299.5H0.5Z" fill="none" stroke="#595959"/>
-  <text x="46" y="128" fill="#f2f2f2" font-family="Arial, Helvetica, sans-serif" font-size="84" font-weight="700" letter-spacing="-4">
-    <tspan x="46">Michael R</tspan>
-    <tspan x="46" dy="81">Manoppo</tspan>
-  </text>
+  <path d="M570 0V240M0.5 0.5H895.5V239.5H0.5Z" fill="none" stroke="#595959"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="46" y="103" fill="#f2f2f2" font-size="48" font-weight="700" letter-spacing="-1.6">Michael R Manoppo</text>
+    <text x="47" y="143" fill="#f2f2f2" font-size="22">Full Stack Developer · DevOps Engineer</text>
+    <text x="47" y="174" fill="#bcbcbc" font-size="19">Bachelor’s in Informatics Engineering.</text>
+  </g>
 </svg>

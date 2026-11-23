@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="148" viewBox="0 0 400 148">
+  <defs>
+    <pattern id="grid" width="12" height="12" patternUnits="userSpaceOnUse">
+      <path d="M12 0H0V12" fill="none" stroke="#303030"/>
+    </pattern>
+    <pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(35)">
+      <path d="M1 0V6" stroke="#f2f2f2" stroke-width=".8"/>
+    </pattern>
+  </defs>
+  <style>
+    @media (prefers-reduced-motion: no-preference) {
+      .trace { animation: draw 950ms ease-out both; }
+    }
+    @keyframes draw {
+      from { stroke-dasharray: 1; stroke-dashoffset: 1; }
+      to { stroke-dasharray: 1; stroke-dashoffset: 0; }
+    }
+  </style>
+  <path fill="#101010" d="M0 0H400V148H0Z"/>
+  <path fill="url(#grid)" d="M319 0H400V148H319Z"/>
+  <path fill="url(#hatch)" d="M327 0H363L400 59V116Z"/>
+  <path fill="#f2f2f2" d="M352 26H365L400 82V103Z"/>
+  <path class="trace" d="M319 126H382L319 25" fill="none" stroke="#f2f2f2" pathLength="1"/>
+  <path d="M319 0V148M0.5 0.5H399.5V147.5H0.5Z" fill="none" stroke="#595959"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="20" y="63" fill="#f2f2f2" font-size="29" font-weight="700" letter-spacing="-.7">Michael R Manoppo</text>
+    <text x="20" y="91" fill="#f2f2f2" font-size="15">Full Stack Developer · DevOps Engineer</text>
+    <text x="20" y="114" fill="#bcbcbc" font-size="14">Bachelor’s in Informatics Engineering.</text>
+  </g>
+</svg>

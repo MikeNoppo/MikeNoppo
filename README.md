@@ -1,6 +1,9 @@
-<h1><img src="assets/profile-banner.svg" width="896" alt="Michael R Manoppo"></h1>
-
-**Full Stack Developer · DevOps Engineer**<br>Bachelor’s in Informatics Engineering.
+<h1>
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/profile-banner-mobile.svg">
+    <img src="assets/profile-banner.svg" width="896" alt="Michael R Manoppo. Full Stack Developer and DevOps Engineer. Bachelor’s in Informatics Engineering.">
+  </picture>
+</h1>
 
 ## Tech stack
 
@@ -59,9 +62,30 @@
   </tbody>
 </table>
 
-## GitHub contributions
+## Projects and activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MikeNoppo&amp;hide_current_streak=true&amp;hide_longest_streak=true&amp;hide_border=true&amp;card_width=210&amp;card_height=170&amp;background=00000000&amp;sideNums=f2f2f2&amp;sideLabels=f2f2f2&amp;dates=ababab&amp;disable_animations=true">
-  <img alt="Total GitHub contributions by MikeNoppo" width="210" height="170" src="https://streak-stats.demolab.com?user=MikeNoppo&amp;hide_current_streak=true&amp;hide_longest_streak=true&amp;hide_border=true&amp;card_width=210&amp;card_height=170&amp;background=00000000&amp;sideNums=171717&amp;sideLabels=171717&amp;dates=5c5c5c&amp;disable_animations=true">
-</picture>
+<table>
+  <thead>
+    <tr>
+      <th scope="col" align="left">Selected projects</th>
+      <th scope="col">GitHub contributions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="middle">
+        <ul>
+          <li><a href="https://github.com/MikeNoppo/RuangPena">RuangPena</a> · TypeScript</li>
+          <li><a href="https://github.com/MikeNoppo/Mikel-Skill">Mikel-Skill</a> · Python</li>
+          <li><a href="https://github.com/MikeNoppo/sajika">sajika</a> · Go</li>
+        </ul>
+      </td>
+      <td align="center">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MikeNoppo&amp;hide_current_streak=true&amp;hide_longest_streak=true&amp;hide_border=true&amp;card_width=180&amp;card_height=170&amp;background=00000000&amp;sideNums=f2f2f2&amp;sideLabels=f2f2f2&amp;dates=ababab&amp;disable_animations=true">
+          <img alt="Total GitHub contributions by MikeNoppo" width="144" src="https://streak-stats.demolab.com?user=MikeNoppo&amp;hide_current_streak=true&amp;hide_longest_streak=true&amp;hide_border=true&amp;card_width=180&amp;card_height=170&amp;background=00000000&amp;sideNums=171717&amp;sideLabels=171717&amp;dates=5c5c5c&amp;disable_animations=true">
+        </picture>
+      </td>
+    </tr>
+  </tbody>
+</table>
