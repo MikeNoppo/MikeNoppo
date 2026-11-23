@@ -41,6 +41,9 @@
   <img alt="Elasticsearch" title="Elasticsearch" width="60" hspace="2" src="https://img.shields.io/badge/%20-252525?style=flat-square&amp;logo=elasticsearch&amp;logoColor=f2f2f2">
   <img alt="Logstash" title="Logstash" width="60" hspace="2" src="https://img.shields.io/badge/%20-252525?style=flat-square&amp;logo=logstash&amp;logoColor=f2f2f2">
   <img alt="Kibana" title="Kibana" width="60" hspace="2" src="https://img.shields.io/badge/%20-252525?style=flat-square&amp;logo=kibana&amp;logoColor=f2f2f2">
+  <img alt="Git" title="Git" width="60" hspace="2" src="https://img.shields.io/badge/%20-252525?style=flat-square&amp;logo=git&amp;logoColor=f2f2f2">
+  <img alt="Bash" title="Bash" width="60" hspace="2" src="https://img.shields.io/badge/%20-252525?style=flat-square&amp;logo=gnubash&amp;logoColor=f2f2f2">
+  <img alt="Redis" title="Redis" width="60" hspace="2" src="https://img.shields.io/badge/%20-252525?style=flat-square&amp;logo=redis&amp;logoColor=f2f2f2">
 </p>
 
 ## Projects and activity
