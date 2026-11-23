@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="152" height="8" viewBox="0 0 152 8">
+  <style>
+    .accent { stroke: #15735f; }
+    @media (prefers-color-scheme: dark) {
+      .accent { stroke: #57c9a8; }
+    }
+    @media (prefers-reduced-motion: no-preference) {
+      .accent { animation: draw 700ms ease-out both; }
+    }
+    @keyframes draw {
+      from { stroke-dasharray: 44; stroke-dashoffset: 44; }
+      to { stroke-dasharray: 44; stroke-dashoffset: 0; }
+    }
+  </style>
+  <path d="M2 4H150" stroke="#8b949e" stroke-opacity=".48" stroke-width="2" stroke-linecap="round"/>
+  <path class="accent" d="M2 4H46" stroke-width="2" stroke-linecap="round"/>
+</svg>

@@ -1,22 +1,31 @@
-# 💫 About Me:
-Hallo Saya Michael Manoppo , Saat ini saya sedang menempuh pendidikan<br>S1 di bidang Informatika 💻<br>
-"The pain of regret is going to be so much stronger than the pain of discipline"
+# Michael R Manoppo
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Michael) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mikelnoppo) 
+**Full Stack Developer · DevOps Engineer**
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MikeNoppo&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MikeNoppo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeNoppo&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+Saya lulusan S1 Teknik Informatika. Saya membangun aplikasi web dan mobile, serta mengelola infrastruktur dan proses deployment.
 
+<img src="assets/profile-line.svg" alt="" width="152" height="8">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MikeNoppo&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+## Tech stack
 
----
-[![](https://visitcount.itsvg.in/api?id=MikeNoppo&icon=5&color=5)](https://visitcount.itsvg.in)
+**Frontend**<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-354353) ![TypeScript](https://img.shields.io/badge/TypeScript-354353) ![React](https://img.shields.io/badge/React-354353) ![Next.js](https://img.shields.io/badge/Next.js-354353) ![Vue](https://img.shields.io/badge/Vue-354353) ![Nuxt](https://img.shields.io/badge/Nuxt-354353) ![Svelte](https://img.shields.io/badge/Svelte-354353) ![SvelteKit](https://img.shields.io/badge/SvelteKit-354353) ![Angular](https://img.shields.io/badge/Angular-354353)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Backend**<br>
+![Go](https://img.shields.io/badge/Go-354353) ![Node.js](https://img.shields.io/badge/Node.js-354353) ![NestJS](https://img.shields.io/badge/NestJS-354353) ![Express.js](https://img.shields.io/badge/Express.js-354353) ![Python](https://img.shields.io/badge/Python-354353) ![PHP](https://img.shields.io/badge/PHP-354353) ![C++](https://img.shields.io/badge/C%2B%2B-354353)
+
+**Mobile**<br>
+![Android](https://img.shields.io/badge/Android-354353) ![Flutter](https://img.shields.io/badge/Flutter-354353) ![Dart](https://img.shields.io/badge/Dart-354353)
+
+**Database**<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-354353) ![MySQL](https://img.shields.io/badge/MySQL-354353) ![MariaDB](https://img.shields.io/badge/MariaDB-354353)
+
+**DevOps**<br>
+![Linux](https://img.shields.io/badge/Linux-354353) ![Docker](https://img.shields.io/badge/Docker-354353) ![CI/CD](https://img.shields.io/badge/CI%2FCD-354353)
+
+## Kontribusi GitHub
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MikeNoppo&amp;hide_current_streak=true&amp;hide_longest_streak=true&amp;hide_border=true&amp;card_width=210&amp;card_height=170&amp;background=00000000&amp;sideNums=e6edf3&amp;sideLabels=e6edf3&amp;dates=9aa8b9&amp;disable_animations=true">
+  <img alt="Total kontribusi GitHub MikeNoppo" width="210" height="170" src="https://streak-stats.demolab.com?user=MikeNoppo&amp;hide_current_streak=true&amp;hide_longest_streak=true&amp;hide_border=true&amp;card_width=210&amp;card_height=170&amp;background=00000000&amp;sideNums=1f2328&amp;sideLabels=1f2328&amp;dates=57606a&amp;disable_animations=true">
+</picture>
