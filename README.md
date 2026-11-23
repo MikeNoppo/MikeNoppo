@@ -12,51 +12,50 @@
     <tr>
       <th scope="row" align="left">Frontend</th>
       <td>
-        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-252525?style=flat-square">
-        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-252525?style=flat-square">
-        <img alt="React" src="https://img.shields.io/badge/React-252525?style=flat-square">
-        <img alt="Next.js" src="https://img.shields.io/badge/Next.js-252525?style=flat-square">
-        <img alt="Vue" src="https://img.shields.io/badge/Vue-252525?style=flat-square">
-        <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-252525?style=flat-square">
-        <img alt="Svelte" src="https://img.shields.io/badge/Svelte-252525?style=flat-square">
-        <img alt="SvelteKit" src="https://img.shields.io/badge/SvelteKit-252525?style=flat-square">
-        <img alt="Angular" src="https://img.shields.io/badge/Angular-252525?style=flat-square">
+        <img alt="JavaScript" title="JavaScript" width="30" src="https://img.shields.io/badge/%20-252525?style=flat-square&amp;logo=javascript&amp;logoColor=f2f2f2">
+        <img alt="TypeScript" title="TypeScript" width="30" src="https://img.shields.io/badge/%20-252525?style=flat-square&amp;logo=typescript&amp;logoColor=f2f2f2">
+        <img alt="React" title="React" width="30" src="https://img.shields.io/badge/%20-252525?style=flat-square&amp;logo=react&amp;logoColor=f2f2f2">
+        <img alt="Next.js" title="Next.js" width="30" src="https://img.shields.io/badge/%20-252525?style=flat-square&amp;logo=nextdotjs&amp;logoColor=f2f2f2">
+        <img alt="Vue" title="Vue" width="30" src="https://img.shields.io/badge/%20-252525?style=flat-square&amp;logo=vuedotjs&amp;logoColor=f2f2f2">
+        <img alt="Nuxt" title="Nuxt" width="30" src="https://img.shields.io/badge/%20-252525?style=flat-square&amp;logo=nuxt&amp;logoColor=f2f2f2">
+        <img alt="Svelte / SvelteKit" title="Svelte / SvelteKit" width="30" src="https://img.shields.io/badge/%20-252525?style=flat-square&amp;logo=svelte&amp;logoColor=f2f2f2">
+        <img alt="Angular" title="Angular" width="30" src="https://img.shields.io/badge/%20-252525?style=flat-square&amp;logo=angular&amp;logoColor=f2f2f2">
       </td>
     </tr>
     <tr>
       <th scope="row" align="left">Backend</th>
       <td>
-        <img alt="Go" src="https://img.shields.io/badge/Go-252525?style=flat-square">
-        <img alt="Node.js" src="https://img.shields.io/badge/Node.js-252525?style=flat-square">
-        <img alt="NestJS" src="https://img.shields.io/badge/NestJS-252525?style=flat-square">
-        <img alt="Express.js" src="https://img.shields.io/badge/Express.js-252525?style=flat-square">
-        <img alt="Python" src="https://img.shields.io/badge/Python-252525?style=flat-square">
-        <img alt="PHP" src="https://img.shields.io/badge/PHP-252525?style=flat-square">
-        <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-252525?style=flat-square">
+        <img alt="Go" title="Go" width="30" src="https://img.shields.io/badge/%20-252525?style=flat-square&amp;logo=go&amp;logoColor=f2f2f2">
+        <img alt="Node.js" title="Node.js" width="30" src="https://img.shields.io/badge/%20-252525?style=flat-square&amp;logo=nodedotjs&amp;logoColor=f2f2f2">
+        <img alt="NestJS" title="NestJS" width="30" src="https://img.shields.io/badge/%20-252525?style=flat-square&amp;logo=nestjs&amp;logoColor=f2f2f2">
+        <img alt="Express.js" title="Express.js" width="30" src="https://img.shields.io/badge/%20-252525?style=flat-square&amp;logo=express&amp;logoColor=f2f2f2">
+        <img alt="Python" title="Python" width="30" src="https://img.shields.io/badge/%20-252525?style=flat-square&amp;logo=python&amp;logoColor=f2f2f2">
+        <img alt="PHP" title="PHP" width="30" src="https://img.shields.io/badge/%20-252525?style=flat-square&amp;logo=php&amp;logoColor=f2f2f2">
+        <img alt="C++" title="C++" width="30" src="https://img.shields.io/badge/%20-252525?style=flat-square&amp;logo=cplusplus&amp;logoColor=f2f2f2">
       </td>
     </tr>
     <tr>
       <th scope="row" align="left">Mobile</th>
       <td>
-        <img alt="Android" src="https://img.shields.io/badge/Android-252525?style=flat-square">
-        <img alt="Flutter" src="https://img.shields.io/badge/Flutter-252525?style=flat-square">
-        <img alt="Dart" src="https://img.shields.io/badge/Dart-252525?style=flat-square">
+        <img alt="Android" title="Android" width="30" src="https://img.shields.io/badge/%20-252525?style=flat-square&amp;logo=android&amp;logoColor=f2f2f2">
+        <img alt="Flutter" title="Flutter" width="30" src="https://img.shields.io/badge/%20-252525?style=flat-square&amp;logo=flutter&amp;logoColor=f2f2f2">
+        <img alt="Dart" title="Dart" width="30" src="https://img.shields.io/badge/%20-252525?style=flat-square&amp;logo=dart&amp;logoColor=f2f2f2">
       </td>
     </tr>
     <tr>
       <th scope="row" align="left">Database</th>
       <td>
-        <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-252525?style=flat-square">
-        <img alt="MySQL" src="https://img.shields.io/badge/MySQL-252525?style=flat-square">
-        <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-252525?style=flat-square">
+        <img alt="PostgreSQL" title="PostgreSQL" width="30" src="https://img.shields.io/badge/%20-252525?style=flat-square&amp;logo=postgresql&amp;logoColor=f2f2f2">
+        <img alt="MySQL" title="MySQL" width="30" src="https://img.shields.io/badge/%20-252525?style=flat-square&amp;logo=mysql&amp;logoColor=f2f2f2">
+        <img alt="MariaDB" title="MariaDB" width="30" src="https://img.shields.io/badge/%20-252525?style=flat-square&amp;logo=mariadb&amp;logoColor=f2f2f2">
       </td>
     </tr>
     <tr>
       <th scope="row" align="left">DevOps</th>
       <td>
-        <img alt="Linux" src="https://img.shields.io/badge/Linux-252525?style=flat-square">
-        <img alt="Docker" src="https://img.shields.io/badge/Docker-252525?style=flat-square">
-        <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-252525?style=flat-square">
+        <img alt="Linux" title="Linux" width="30" src="https://img.shields.io/badge/%20-252525?style=flat-square&amp;logo=linux&amp;logoColor=f2f2f2">
+        <img alt="Docker" title="Docker" width="30" src="https://img.shields.io/badge/%20-252525?style=flat-square&amp;logo=docker&amp;logoColor=f2f2f2">
+        <img alt="CI/CD" title="CI/CD" width="30" src="assets/ci-cd.svg">
       </td>
     </tr>
   </tbody>
