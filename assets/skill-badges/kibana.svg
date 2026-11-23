@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="20" viewBox="0 0 25 20" role="img">
+  <title>Kibana</title>
+  <style>
+    @media (prefers-reduced-motion: no-preference) {
+      .mark { animation: arrive 460ms cubic-bezier(.2,.75,.2,1) 1088ms both; }
+      .glow { animation: pulse 7000ms ease-in-out 5490ms infinite; }
+    }
+    @keyframes arrive {
+      from { opacity: .26; transform: translateY(1.2px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes pulse {
+      0%, 30%, 100% { opacity: 0; }
+      13% { opacity: .62; }
+    }
+  </style>
+  <path d="M0 0H25V20H0Z" fill="#252525" />
+  <rect class="glow" x=".5" y=".5" width="24" height="19" fill="none" stroke="#dedede" stroke-width=".75" opacity="0" />
+  <g class="mark">
+    <svg x="5.5" y="3" width="14" height="14" viewBox="0 0 24 24" fill="#f2f2f2">
+      <path d="M2.625 0v21.591L21.375 0zm10.864 12.47L3.477 24h17.522a18.755 18.755 0 0 0-7.51-11.53z" />
+    </svg>
+  </g>
+</svg>

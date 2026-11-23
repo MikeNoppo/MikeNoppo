@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="20" viewBox="0 0 25 20" role="img">
+  <title>Vue</title>
+  <style>
+    @media (prefers-reduced-motion: no-preference) {
+      .mark { animation: arrive 460ms cubic-bezier(.2,.75,.2,1) 136ms both; }
+      .glow { animation: pulse 7000ms ease-in-out 2130ms infinite; }
+    }
+    @keyframes arrive {
+      from { opacity: .26; transform: translateY(1.2px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes pulse {
+      0%, 30%, 100% { opacity: 0; }
+      13% { opacity: .62; }
+    }
+  </style>
+  <path d="M0 0H25V20H0Z" fill="#252525" />
+  <rect class="glow" x=".5" y=".5" width="24" height="19" fill="none" stroke="#dedede" stroke-width=".75" opacity="0" />
+  <g class="mark">
+    <svg x="5.5" y="3" width="14" height="14" viewBox="0 0 24 24" fill="#f2f2f2">
+      <path d="M24,1.61H14.06L12,5.16,9.94,1.61H0L12,22.39ZM12,14.08,5.16,2.23H9.59L12,6.41l2.41-4.18h4.43Z" />
+    </svg>
+  </g>
+</svg>

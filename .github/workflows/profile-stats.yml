@@ -1,4 +1,4 @@
-name: Refresh profile stats
+name: Refresh profile assets
 
 on:
   schedule:
@@ -26,13 +26,16 @@ jobs:
           PROFILE_LOGIN: ${{ github.repository_owner }}
         run: python3 scripts/render_activity.py "$PROFILE_LOGIN"
 
-      - name: Publish updated charts
+      - name: Render animated skill badges
+        run: python3 scripts/render_skill_badges.py
+
+      - name: Publish updated assets
         run: |
-          git add assets/github-activity.svg assets/github-activity-mobile.svg
+          git add assets/github-activity.svg assets/github-activity-mobile.svg assets/skill-badges
           if git diff --cached --quiet; then
             exit 0
           fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git commit -m 'docs(profile): refresh github activity stats'
+          git commit -m 'docs(profile): refresh generated profile assets'
           git push origin "HEAD:$GITHUB_REF"
