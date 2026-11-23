@@ -1,31 +1,67 @@
-# Michael R Manoppo
+<h1><img src="assets/profile-banner.svg" width="896" alt="Michael R Manoppo"></h1>
 
-**Full Stack Developer · DevOps Engineer**
-
-Saya lulusan S1 Teknik Informatika. Saya membangun aplikasi web dan mobile, serta mengelola infrastruktur dan proses deployment.
-
-<img src="assets/profile-line.svg" alt="" width="152" height="8">
+**Full Stack Developer · DevOps Engineer**<br>Bachelor’s in Informatics Engineering.
 
 ## Tech stack
 
-**Frontend**<br>
-![JavaScript](https://img.shields.io/badge/JavaScript-354353) ![TypeScript](https://img.shields.io/badge/TypeScript-354353) ![React](https://img.shields.io/badge/React-354353) ![Next.js](https://img.shields.io/badge/Next.js-354353) ![Vue](https://img.shields.io/badge/Vue-354353) ![Nuxt](https://img.shields.io/badge/Nuxt-354353) ![Svelte](https://img.shields.io/badge/Svelte-354353) ![SvelteKit](https://img.shields.io/badge/SvelteKit-354353) ![Angular](https://img.shields.io/badge/Angular-354353)
+<table>
+  <tbody>
+    <tr>
+      <th scope="row" align="left">Frontend</th>
+      <td>
+        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-252525?style=flat-square">
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-252525?style=flat-square">
+        <img alt="React" src="https://img.shields.io/badge/React-252525?style=flat-square">
+        <img alt="Next.js" src="https://img.shields.io/badge/Next.js-252525?style=flat-square">
+        <img alt="Vue" src="https://img.shields.io/badge/Vue-252525?style=flat-square">
+        <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-252525?style=flat-square">
+        <img alt="Svelte" src="https://img.shields.io/badge/Svelte-252525?style=flat-square">
+        <img alt="SvelteKit" src="https://img.shields.io/badge/SvelteKit-252525?style=flat-square">
+        <img alt="Angular" src="https://img.shields.io/badge/Angular-252525?style=flat-square">
+      </td>
+    </tr>
+    <tr>
+      <th scope="row" align="left">Backend</th>
+      <td>
+        <img alt="Go" src="https://img.shields.io/badge/Go-252525?style=flat-square">
+        <img alt="Node.js" src="https://img.shields.io/badge/Node.js-252525?style=flat-square">
+        <img alt="NestJS" src="https://img.shields.io/badge/NestJS-252525?style=flat-square">
+        <img alt="Express.js" src="https://img.shields.io/badge/Express.js-252525?style=flat-square">
+        <img alt="Python" src="https://img.shields.io/badge/Python-252525?style=flat-square">
+        <img alt="PHP" src="https://img.shields.io/badge/PHP-252525?style=flat-square">
+        <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-252525?style=flat-square">
+      </td>
+    </tr>
+    <tr>
+      <th scope="row" align="left">Mobile</th>
+      <td>
+        <img alt="Android" src="https://img.shields.io/badge/Android-252525?style=flat-square">
+        <img alt="Flutter" src="https://img.shields.io/badge/Flutter-252525?style=flat-square">
+        <img alt="Dart" src="https://img.shields.io/badge/Dart-252525?style=flat-square">
+      </td>
+    </tr>
+    <tr>
+      <th scope="row" align="left">Database</th>
+      <td>
+        <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-252525?style=flat-square">
+        <img alt="MySQL" src="https://img.shields.io/badge/MySQL-252525?style=flat-square">
+        <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-252525?style=flat-square">
+      </td>
+    </tr>
+    <tr>
+      <th scope="row" align="left">DevOps</th>
+      <td>
+        <img alt="Linux" src="https://img.shields.io/badge/Linux-252525?style=flat-square">
+        <img alt="Docker" src="https://img.shields.io/badge/Docker-252525?style=flat-square">
+        <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-252525?style=flat-square">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-**Backend**<br>
-![Go](https://img.shields.io/badge/Go-354353) ![Node.js](https://img.shields.io/badge/Node.js-354353) ![NestJS](https://img.shields.io/badge/NestJS-354353) ![Express.js](https://img.shields.io/badge/Express.js-354353) ![Python](https://img.shields.io/badge/Python-354353) ![PHP](https://img.shields.io/badge/PHP-354353) ![C++](https://img.shields.io/badge/C%2B%2B-354353)
-
-**Mobile**<br>
-![Android](https://img.shields.io/badge/Android-354353) ![Flutter](https://img.shields.io/badge/Flutter-354353) ![Dart](https://img.shields.io/badge/Dart-354353)
-
-**Database**<br>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-354353) ![MySQL](https://img.shields.io/badge/MySQL-354353) ![MariaDB](https://img.shields.io/badge/MariaDB-354353)
-
-**DevOps**<br>
-![Linux](https://img.shields.io/badge/Linux-354353) ![Docker](https://img.shields.io/badge/Docker-354353) ![CI/CD](https://img.shields.io/badge/CI%2FCD-354353)
-
-## Kontribusi GitHub
+## GitHub contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MikeNoppo&amp;hide_current_streak=true&amp;hide_longest_streak=true&amp;hide_border=true&amp;card_width=210&amp;card_height=170&amp;background=00000000&amp;sideNums=e6edf3&amp;sideLabels=e6edf3&amp;dates=9aa8b9&amp;disable_animations=true">
-  <img alt="Total kontribusi GitHub MikeNoppo" width="210" height="170" src="https://streak-stats.demolab.com?user=MikeNoppo&amp;hide_current_streak=true&amp;hide_longest_streak=true&amp;hide_border=true&amp;card_width=210&amp;card_height=170&amp;background=00000000&amp;sideNums=1f2328&amp;sideLabels=1f2328&amp;dates=57606a&amp;disable_animations=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MikeNoppo&amp;hide_current_streak=true&amp;hide_longest_streak=true&amp;hide_border=true&amp;card_width=210&amp;card_height=170&amp;background=00000000&amp;sideNums=f2f2f2&amp;sideLabels=f2f2f2&amp;dates=ababab&amp;disable_animations=true">
+  <img alt="Total GitHub contributions by MikeNoppo" width="210" height="170" src="https://streak-stats.demolab.com?user=MikeNoppo&amp;hide_current_streak=true&amp;hide_longest_streak=true&amp;hide_border=true&amp;card_width=210&amp;card_height=170&amp;background=00000000&amp;sideNums=171717&amp;sideLabels=171717&amp;dates=5c5c5c&amp;disable_animations=true">
 </picture>
