@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="25" height="20" viewBox="0 0 25 20" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" id="still" width="25" height="20" viewBox="0 0 25 20" role="img">
   <title>Next.js</title>
   <style>
     @media (prefers-reduced-motion: no-preference) {
-      .mark { animation: arrive 460ms cubic-bezier(.2,.75,.2,1) 102ms both; }
-      .glow { animation: pulse 7000ms ease-in-out 2010ms infinite; }
+      :root:not(:target) .mark { animation: arrive 460ms cubic-bezier(.2,.75,.2,1) 102ms both; }
+      :root:not(:target) .glow { animation: pulse 7000ms ease-in-out 2010ms infinite; }
     }
     @keyframes arrive {
       from { opacity: .26; transform: translateY(1.2px); }

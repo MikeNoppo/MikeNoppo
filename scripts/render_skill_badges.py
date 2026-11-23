@@ -14,13 +14,13 @@ def element(name):
 def render_badge(mark, index):
     entrance_delay = index * 34
     glow_delay = 1650 + index * 120
-    badge = ET.Element(element("svg"), width="25", height="20", viewBox="0 0 25 20", role="img")
+    badge = ET.Element(element("svg"), id="still", width="25", height="20", viewBox="0 0 25 20", role="img")
     badge.append(deepcopy(mark.find(element("title"))))
 
     ET.SubElement(badge, element("style")).text = f"""
     @media (prefers-reduced-motion: no-preference) {{
-      .mark {{ animation: arrive 460ms cubic-bezier(.2,.75,.2,1) {entrance_delay}ms both; }}
-      .glow {{ animation: pulse 7000ms ease-in-out {glow_delay}ms infinite; }}
+      :root:not(:target) .mark {{ animation: arrive 460ms cubic-bezier(.2,.75,.2,1) {entrance_delay}ms both; }}
+      :root:not(:target) .glow {{ animation: pulse 7000ms ease-in-out {glow_delay}ms infinite; }}
     }}
     @keyframes arrive {{
       from {{ opacity: .26; transform: translateY(1.2px); }}
